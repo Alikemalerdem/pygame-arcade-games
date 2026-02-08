@@ -13,7 +13,7 @@ Projeler, erken dönem oyun geliştirme çalışmalarımı içermektedir.
 ![Game 2](Screenshots/game2.jpeg)
 📁 `game2/`
 
-### Game 3 – Mouse Controlled Arcade Game
+### Game 3 – Button Controlled Arcade Game
 ![Game 3](Screenshots/game3.jpeg)
 📁 `game3/`
 
