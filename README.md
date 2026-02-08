@@ -25,7 +25,5 @@ Projeler, erken dönem oyun geliştirme çalışmalarımı içermektedir.
 Bu projeler, 2019–2020 yıllarında lise döneminde,
 oyun geliştirmeye giriş amacıyla geliştirilmiştir.
 
-> Kodlar daha sonra portföy amaçlı düzenlenmiştir.
-
 ## Author
 Ali Kemal Erdem
